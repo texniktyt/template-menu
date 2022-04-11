@@ -1,0 +1,30 @@
+// Colors
+$orange: #d78e1c;
+$grey: #e6e6e6;
+
+// Sizes
+$base-font-size: 16px;
+$base-font-size-tablet: 14px;
+$base-font-size-mobile: 12px;
+
+$breakpoints: (
+  "phone"       : 400px,
+  "phone-wide"  : 480px,
+  "phablet"     : 560px,
+  "tablet-small": 640px,
+  "tablet"      : 768px,
+  "tablet-wide" : 1024px,
+  "desktop"     : 1230px, 
+  "desktop-wide": 1440px
+);
+
+$content-size: 1170px;
+
+// Fonts
+$semi-bold:   "Manrope-SemiBold";
+$regular:     "Manrope-Regular";
+$medium:      "Manrope-Medium";
+$light:       "Manrope-Light";
+$extra-light: "Manrope-ExtraLight";
+$extra-bold:  "Manrope-ExtraBold";
+$bold:        "Manrope-Bold";
